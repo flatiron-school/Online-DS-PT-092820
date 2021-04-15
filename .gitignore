@@ -1,3 +1,6 @@
+# Data too big for github
+Phase4/data/bitstampUSD_1-min_data_2012-01-01_to_2021-03-31.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
